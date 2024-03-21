@@ -34,7 +34,7 @@
          "imdbID":"tt0184666",
          "Type":"game",
          "Poster":"https://m.media-amazon.com/images/M/MV5BZjc3MmMzNGItYmEzYy00MWFhLWI0NDQtMWE3Y2Q1NjE1OWRlXkEyXkFqcGdeQXVyNzcyMjAwNTE@._V1_SX300.jpg"
-      },      
+      },
       {
          "Title":"Harry Potter and the Deathly Hallows: Part 2",
          "Year":"2011",
@@ -131,11 +131,8 @@
          "imdbID":"tt2085795",
          "Type":"movie",
          "Poster":"https://m.media-amazon.com/images/M/MV5BYzJmMjMyNWMtMjAzMy00ZDFiLWJlOTctN2MyZTFhYTU0ZTMwXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_SX300.jpg"
-      },
-      {
-         "Title":"Fairy Tail OVA Series",
-         "Year":"2011–2016",
-         "imdbID":"tt8324472",
-         "Type":"series",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BM2MzNDA2YTQtZDk3OS00MDJjLTk3NmMtYTkyYmQyZTM0OTZhXkEyXkFqcGdeQXVyOTg4NjU1MzM@._V1_SX300.jpg"
-      },
+      }
+   ],
+   "totalResults":"62",
+   "Response":"True"
+}
