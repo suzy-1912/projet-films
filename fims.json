@@ -22,13 +22,6 @@
          "Poster":"https://m.media-amazon.com/images/M/MV5BYTk0NDAyMTktMjQwMC00NjVlLTk4ZTktMmI5MGU4NzU2ZGQ4XkEyXkFqcGdeQXVyNDkwMzY5NjQ@._V1_SX300.jpg"
       },
       {
-         "Title":"Miraculous Journey",
-         "Year":"1948",
-         "imdbID":"tt0040596",
-         "Type":"movie",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BMDc0MWUzMTUtNTNjMy00MDliLWFlYjctYzFlNDJiMGM5ODEwXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_SX300.jpg"
-      },
-      {
          "Title":"Avatar",
          "Year":"2009",
          "imdbID":"tt0499549",
@@ -41,7 +34,8 @@
          "imdbID":"tt0184666",
          "Type":"game",
          "Poster":"https://m.media-amazon.com/images/M/MV5BZjc3MmMzNGItYmEzYy00MWFhLWI0NDQtMWE3Y2Q1NjE1OWRlXkEyXkFqcGdeQXVyNzcyMjAwNTE@._V1_SX300.jpg"
-      },      {
+      },      
+      {
          "Title":"Harry Potter and the Deathly Hallows: Part 2",
          "Year":"2011",
          "imdbID":"tt1201607",
@@ -145,49 +139,3 @@
          "Type":"series",
          "Poster":"https://m.media-amazon.com/images/M/MV5BM2MzNDA2YTQtZDk3OS00MDJjLTk3NmMtYTkyYmQyZTM0OTZhXkEyXkFqcGdeQXVyOTg4NjU1MzM@._V1_SX300.jpg"
       },
-      {
-         "Title":"My Fairy Tail Love Story",
-         "Year":"2018",
-         "imdbID":"tt6712330",
-         "Type":"movie",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BY2NkYjliZjUtNzdmNy00YjExLTkyYjQtNjM4MTg3ZmE1NmY3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg"
-      },
-      {
-         "Title":"Fairy Tail X Rave",
-         "Year":"2013",
-         "imdbID":"tt6923576",
-         "Type":"movie",
-         "Poster":"N/A"
-      },
-      {
-         "Title":"a Fairy Tail",
-         "Year":"2009",
-         "imdbID":"tt1814955",
-         "Type":"movie",
-         "Poster":"N/A"
-      },
-      {
-         "Title":"Fairy Tail",
-         "Year":"2018",
-         "imdbID":"tt8912202",
-         "Type":"movie",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BZWQzYTUzMjItZWJmOS00YjExLWFjOTktYWY2MmJkMzg4YzBjXkEyXkFqcGdeQXVyMTAxMzY2ODM@._V1_SX300.jpg"
-      },
-      {
-         "Title":"The Fairy Tail Complex",
-         "Year":"2013",
-         "imdbID":"tt7296990",
-         "Type":"movie",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BYjgzZGQyZjYtOGZkOC00MTkwLTkyNjAtMjRkNGMxZTkzMDI4XkEyXkFqcGdeQXVyNDgwMjQ5ODU@._V1_SX300.jpg"
-      },
-      {
-         "Title":"Fractured Fairy Tail",
-         "Year":"2013",
-         "imdbID":"tt2747864",
-         "Type":"movie",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BMjExODgyODQ1Ml5BMl5BanBnXkFtZTgwMDQzNDA5MDE@._V1_SX300.jpg"
-      }
-   ],
-   "totalResults":"62",
-   "Response":"True"
-}
